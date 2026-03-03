@@ -1,1 +1,8 @@
 print("Yoyoyo whatup")
+print("This is my first python file")
+print("I am learning how to code in python")
+print("I am loving it so far")
+print("I can't wait to learn more and create cool projects with python")
+print("I am going to keep practicing and improving my skills")
+print("Python is such a versatile language and I am excited to see what I can do with it")
+print("I am also going to learn about different libraries and frameworks in python")
